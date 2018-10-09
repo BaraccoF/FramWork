@@ -1,0 +1,9 @@
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_BLL\bin\Debug\netstandard2.0\FW_BLL.deps.json
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_BLL\bin\Debug\netstandard2.0\FW_BLL.dll
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_BLL\bin\Debug\netstandard2.0\FW_BLL.pdb
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_BLL\obj\Debug\netstandard2.0\FW_BLL.csprojAssemblyReference.cache
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_BLL\obj\Debug\netstandard2.0\FW_BLL.csproj.CoreCompileInputs.cache
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_BLL\obj\Debug\netstandard2.0\FW_BLL.AssemblyInfoInputs.cache
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_BLL\obj\Debug\netstandard2.0\FW_BLL.AssemblyInfo.cs
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_BLL\obj\Debug\netstandard2.0\FW_BLL.dll
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_BLL\obj\Debug\netstandard2.0\FW_BLL.pdb

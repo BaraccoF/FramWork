@@ -1,0 +1,13 @@
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_TU\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_TU\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_TU\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_TU\bin\Debug\netcoreapp2.1\FW_TU.deps.json
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_TU\bin\Debug\netcoreapp2.1\FW_TU.runtimeconfig.json
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_TU\bin\Debug\netcoreapp2.1\FW_TU.runtimeconfig.dev.json
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_TU\bin\Debug\netcoreapp2.1\FW_TU.dll
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_TU\bin\Debug\netcoreapp2.1\FW_TU.pdb
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_TU\obj\Debug\netcoreapp2.1\FW_TU.csproj.CoreCompileInputs.cache
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_TU\obj\Debug\netcoreapp2.1\FW_TU.AssemblyInfoInputs.cache
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_TU\obj\Debug\netcoreapp2.1\FW_TU.AssemblyInfo.cs
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_TU\obj\Debug\netcoreapp2.1\FW_TU.dll
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_TU\obj\Debug\netcoreapp2.1\FW_TU.pdb

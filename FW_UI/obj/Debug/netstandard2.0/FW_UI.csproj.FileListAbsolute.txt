@@ -1,0 +1,9 @@
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_UI\bin\Debug\netstandard2.0\FW_UI.deps.json
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_UI\bin\Debug\netstandard2.0\FW_UI.dll
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_UI\bin\Debug\netstandard2.0\FW_UI.pdb
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_UI\obj\Debug\netstandard2.0\FW_UI.csprojAssemblyReference.cache
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_UI\obj\Debug\netstandard2.0\FW_UI.csproj.CoreCompileInputs.cache
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_UI\obj\Debug\netstandard2.0\FW_UI.AssemblyInfoInputs.cache
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_UI\obj\Debug\netstandard2.0\FW_UI.AssemblyInfo.cs
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_UI\obj\Debug\netstandard2.0\FW_UI.dll
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_UI\obj\Debug\netstandard2.0\FW_UI.pdb

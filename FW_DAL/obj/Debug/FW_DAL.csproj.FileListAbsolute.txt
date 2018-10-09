@@ -1,0 +1,6 @@
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_DAL\bin\Debug\FW_DAL.dll
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_DAL\bin\Debug\FW_DAL.pdb
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_DAL\obj\Debug\FW_DAL.csprojAssemblyReference.cache
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_DAL\obj\Debug\FW_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_DAL\obj\Debug\FW_DAL.dll
+C:\Users\Megaport\Documents\GitHub\FrameWork\FW_DAL\obj\Debug\FW_DAL.pdb
